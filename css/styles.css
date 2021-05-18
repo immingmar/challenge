@@ -1,0 +1,41 @@
+body {
+    margin: 0px !important;
+}
+h1 {
+    color: hsl(0, 0%, 100%);
+    margin-top: 0;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+h3 {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.top-container {
+    background-color:  hsl(233, 47%, 7%);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    
+    
+}
+
+.second-container {
+    width: 50%;
+    background-color: hsl(244, 38%, 16%);
+    margin: auto;
+}
+
+.image-header {
+    width: 25%;
+    float: right;
+}
+
+.text {
+    width: 25%;
+}
+
+
+
